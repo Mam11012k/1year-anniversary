@@ -2,7 +2,7 @@ const textConfig = {
   text1: "Xin chào mẹ cái Suộc!",
   text2: "Embe có 1 câu hỏi duy nhất thui í ạ.",
   text3: "Chị bé có yêu em bé hong ạ?._.",
-  text4: "Nếu Bx ko trả lời mà thoát ra tức là muốn làm vợ Ox rùi đó nha :v",
+  text4: "Anh yêu em nhất thế giới này ạ",
   text5: "Chị bé bình thường:))",
   text6: "Yêu nhất thế giới này:))",
   text7: "1 điều mà em chưa ưng ở anh?",
